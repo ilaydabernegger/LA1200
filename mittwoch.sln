@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zufallsgenerator", "zufallsgenerator\zufallsgenerator.csproj", "{4F46DA2C-D5A9-44C0-9A39-34A447FFDDA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ausprobierer", "ausprobierer\ausprobierer.csproj", "{3D2C157C-A9A4-4A2F-ABCE-F9F50451168B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F46DA2C-D5A9-44C0-9A39-34A447FFDDA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F46DA2C-D5A9-44C0-9A39-34A447FFDDA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F46DA2C-D5A9-44C0-9A39-34A447FFDDA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F46DA2C-D5A9-44C0-9A39-34A447FFDDA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D2C157C-A9A4-4A2F-ABCE-F9F50451168B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2C157C-A9A4-4A2F-ABCE-F9F50451168B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2C157C-A9A4-4A2F-ABCE-F9F50451168B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2C157C-A9A4-4A2F-ABCE-F9F50451168B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63918ACA-D1D3-4A12-A3ED-2B6FA2B88C8F}
+	EndGlobalSection
+EndGlobal
